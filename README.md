@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Bruno 👋
 
-<!--
-**BrunoCavichioliG/BrunoCavichioliG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC Matão
 
-Here are some ideas to get you started:
+💻 Tecnologias que estudo:
+- HTML
+- CSS
+- JavaScript
+- SQL
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Ferramentas:
+- Git & GitHub
+- VS Code
+- Visual Studio
+- MySQL
+- Figma
+
+🚀 Atualmente focado em:
+Desenvolvimento Web e projetos para fortalecer meu portfólio.
+
+📂 Meus projetos estão disponíveis nos repositórios abaixo.
+
+📫 Contato:
+Email: brunocavichioli2019@gmail.com
